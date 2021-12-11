@@ -26,7 +26,7 @@ divide = int(600/200)
 print(divide)
 print("\n")
 
-# Concate two strings together
+# Concatenate two strings together
 x = " Hi, My name is Deepthi!"
 y = "This is my First class"
 z = x + y
@@ -40,7 +40,7 @@ print("\n")
 
 # Append an item to your list
 p = [20, 40, 60 ]
-p.append ("Eighty")
+p. append ("Eighty")
 print (p)
 print ("\n")
 
